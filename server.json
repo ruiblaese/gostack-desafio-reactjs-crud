@@ -3,26 +3,80 @@
     {
       "id": 1,
       "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png",
       "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
+      "available": true
     },
     {
       "id": 2,
       "name": "Veggie",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "price": "21.10",
       "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
+      "available": true
     },
     {
       "id": 3,
       "name": "A la Camarón",
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png",
+      "price": "25.90",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "available": true
+    },
+    {
+      "id": 4,
+      "name": "La Pizza",
       "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
       "price": "25.90",
-      "available": true,
+      "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 5,
+      "name": "La Pastel",
+      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
+      "price": "25.90",
+      "available": false,
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "id": 6,
+      "name": "asdf",
+      "image": "asdf",
+      "price": "asdf",
+      "description": "asdf asdf asdf asdf",
+      "available": true
+    },
+    {
+      "image": "qwerty",
+      "name": "qwerty",
+      "price": "12.34",
+      "description": "qwerty qwerty qwerty",
+      "id": 7
+    },
+    {
+      "id": 8,
+      "name": "zxcvbnm",
+      "image": "zxcvbnm",
+      "price": "45.67",
+      "description": "zxcvbnm zxcvbnm zxcvbnm",
+      "available": true
+    },
+    {
+      "image": "qazxsw",
+      "name": "qazxsw",
+      "price": "321.65",
+      "description": "qazxsw qazxsw qazxsw",
+      "id": 9
+    },
+    {
+      "id": 10,
+      "name": "vfrbgtnhy",
+      "image": "vfrbgtnhy",
+      "description": "vfrbgtnhy vfrbgtnhy vfrbgtnhy",
+      "price": "78.91",
+      "available": true
     }
   ]
 }
